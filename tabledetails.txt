@@ -1,0 +1,18 @@
+imgcrawl:-database
+
+table name:- 
+image
+attrubutes:-
+ inti_url (varchar 256 )
+imglink varchar 256
+imgname varchar 256
+imgsrc varchar 256
+height varchar 10
+width varchar 10
+alt varchar 256
+inti_url - unique
+
+table name :- 
+url_tra
+id int 200
+url_name varchar 256
