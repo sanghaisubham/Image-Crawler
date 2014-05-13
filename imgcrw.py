@@ -5,7 +5,7 @@ import re
 import MySQLdb
 import Image
 
-count =1
+count =2
 dirpath='E:\image'
 
 try:
